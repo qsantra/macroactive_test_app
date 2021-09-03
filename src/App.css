@@ -1,0 +1,17 @@
+.wrapper {
+  background-color: rgb(255, 255, 255);
+}
+
+
+ ul.navbar {
+  margin: 0;
+  padding: 4px;
+ }
+ ul.navbar li {
+  display: inline;
+  margin-right: 5px;
+  padding: 3px;
+ }
+ul.navbar.li a {
+  text-decoration: none;
+} 
